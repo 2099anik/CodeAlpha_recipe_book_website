@@ -1,1 +1,1 @@
-export const connectionstr = "mongodb+srv://anikbarman711:Anikdebbarman@cluster0.r3lfgtf.mongodb.net/recipeDB?retryWrites=true&w=majority";
+
